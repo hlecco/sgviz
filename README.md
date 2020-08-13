@@ -19,3 +19,7 @@ The position is set following two rules:
 The first condition is stronger that the second.
 
 Finally, run ./parser to generate Graph.svg
+
+
+Please note: the included directory src and files gPos.txt, gInfo.txt and Graph.svg refer to brazilian airports and existing flight operated by a specific company.
+For different plots, it suffices to change the src directory contents.
